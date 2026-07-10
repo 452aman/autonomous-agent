@@ -1,0 +1,16 @@
+# Environment
+.env
+venv/
+autonomous_agent_env/
+
+# Generated documents
+output_documents/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Mac
+.DS_Store
